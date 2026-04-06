@@ -9,7 +9,7 @@ The system is designed to reduce the amount of time and energy spent on reconstr
 
 **Built by:** Warren Zhao, former employee at Childcare Choices of Boston  
 **Stack:** Next.js · Supabase · Vercel  
-**Status:** Deployed to production, in active daily use
+**Status:** Deployed to production
 
 ---
 
