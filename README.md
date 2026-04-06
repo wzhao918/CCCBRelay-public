@@ -73,6 +73,19 @@ The system has five roles, built on a simple principle: **everyone sees everythi
 
 *(Coming soon)*
 
+Intake Screen and New Ticket:
+<img width="2556" height="1304" alt="IntakeView" src="https://github.com/user-attachments/assets/8c82cdd2-60aa-48ff-9b2a-e0c8894c6780" />
+
+My Queue:
+<img width="2559" height="1303" alt="QueueView" src="https://github.com/user-attachments/assets/63f0c38d-733c-417a-8ac4-b3d0bb94236f" />
+
+Team View:
+<img width="2559" height="1306" alt="TeamView" src="https://github.com/user-attachments/assets/62a3a4a7-2218-48c0-adf6-53574c1387eb" />
+
+Admin Panel:
+<img width="2559" height="1302" alt="image" src="https://github.com/user-attachments/assets/89b32670-75e9-472f-a723-1b9e25570a5c" />
+
+
 <!--
 To add screenshots, create an `assets/` folder in this repo and drop in your images.
 
@@ -80,7 +93,8 @@ Suggested shots:
   - Intake screen (client search + new ticket form)     → assets/intake.png
   - My Queue (ticket list + created tickets sidebar)    → assets/queue.png
   - Team View (compact rows + group by member)          → assets/team-view.png
-  - Ticket Detail (side panel + comment thread)         → assets/ticket-detail.png
+  - Ticket Detail (side panel + comment thread)         → assets/ticket-detail.png![Uploading IntakeView.png…]()
+
   - Admin panel (territories or metrics)                → assets/admin.png
 
 Reference them with:
